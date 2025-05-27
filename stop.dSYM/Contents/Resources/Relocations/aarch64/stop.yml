@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/sheezamannazeer/DS/oops/stop'
+relocations:     []
+...
